@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Krishn",
+      "age": 20,
+      "id": "1dc5f352-0f17-4488-960a-8079e35be426"
+    },
+    {
+      "name": "Arjun",
+      "age": 25,
+      "id": "e5c75ad3-f785-46f4-bf50-afcc5a3f3626"
+    },
+    {
+      "name": "Krishn",
+      "age": 21,
+      "id": "4330a197-b750-478c-af64-1e2d7d98099a"
+    },
+    {
+      "name": "Krishna",
+      "age": 21,
+      "id": "a4ff12f1-5997-4f3a-836a-d5c1376a07fe"
+    },
+    {
+      "name": "Krishna",
+      "age": 21,
+      "id": "8d3337b3-af58-4ace-b9db-135a6fc5f3e6"
+    }
+  ],
+  "products": [
+    {
+      "title": "Laptop",
+      "price": 999.99
+    },
+    {
+      "title": "Mouse",
+      "price": 29.99
+    }
+  ]
+}
